@@ -7,4 +7,3 @@ Davis_Miller
 Mehmet_Williams
 Tommy_Warlord
 Hector_Jones
-https://github.com/Makleidi/Satesto/raw/main/Reload%20All.luac
